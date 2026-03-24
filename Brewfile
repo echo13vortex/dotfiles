@@ -8,7 +8,7 @@ brew "glances"      # systémový monitor
 brew "nmap"         # síťový scanner
 brew "rclone"       # sync do cloudu
 brew "tmux"         # terminálový multiplexer
-brew "ykman"        # YubiKey manager
+brew "ykman"        # YubiKey manager (CLI)
 brew "z3"           # SMT solver
 brew "cloudflared"  # Cloudflare tunnel
 brew "cointop"      # krypto terminal
@@ -23,14 +23,14 @@ cask "alfred"           # launcher
 cask "avast-security"   # antivirus
 cask "balenaetcher"     # flashování obrazů na SD/USB
 cask "brave-browser"    # prohlížeč
-cask "discord"          # komunikace
+cask "claude"           # Claude AI
+cask "github"           # GitHub Desktop
 cask "google-drive"     # cloud storage
-cask "iterm2"           # terminál
-cask "macfuse"          # FUSE pro macOS
 cask "mucommander"      # file manager
-cask "obsidian"         # poznámky
 cask "qflipper"         # Flipper Zero
 cask "spotify"          # hudba
 cask "termius"          # SSH klient
+cask "trezor-suite"     # Trezor hardware wallet
 cask "veracrypt"        # šifrování disků
 cask "visual-studio-code" # editor
+cask "yubikey-manager"  # YubiKey Manager (GUI)
